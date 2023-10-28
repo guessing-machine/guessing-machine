@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Guessing Machine
+Guessing Machine
